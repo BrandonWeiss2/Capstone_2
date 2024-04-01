@@ -1,4 +1,4 @@
-##Overview:
+## Overview:
 Millions of shares are traded every day on exchanges around the world. Prices are constantly fluctuating and can appear unpredictable or volatile. Our goal is to develop models that can assist us with making future predictions of the stock market. In the provided model, we will use past Apple (APPL) pricing data to help us predict the future price of the stock. 
 
 Project Directory:
