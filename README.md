@@ -2,13 +2,13 @@
 Millions of shares are traded every day on exchanges around the world. Prices are constantly fluctuating and can appear unpredictable or volatile. Our goal is to develop models that can assist us with making future predictions of the stock market. In the provided model, we will use past Apple (APPL) pricing data to help us predict the future price of the stock. 
 
 ## Project Directory:
-•	Part 1: Data Processing
-o	Importing Data
-o	Extracting AAPL data
-•	Part 2: Exploring The Data
-o	Apple Stock Price
-o	Apple Closing Pirce
-o	Apple Closing Price - Rolling Mean
+Part 1: Data Processing
+  - Importing Data
+    -	Extracting AAPL data
+  -	Part 2: Exploring The Data
+    -	Apple Stock Price
+    -	Apple Closing Pirce
+    -	Apple Closing Price - Rolling Mean
 o	Apple Closing Price – Expanding
 o	Stock Density Distribution
 •	Part 3: Modeling
