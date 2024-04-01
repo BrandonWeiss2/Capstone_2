@@ -9,24 +9,24 @@ Part 1: Data Processing
     -	Apple Stock Price
     -	Apple Closing Pirce
     -	Apple Closing Price - Rolling Mean
-o	Apple Closing Price – Expanding
-o	Stock Density Distribution
-•	Part 3: Modeling
-o	Dicky fuller test
-o	Autocorrelation
-o	ACF (Autocorrelation Function)
-o	PACF (Partial Autocorrelation Function)
-o	Auto Regressive Integrated Moving Average
-o	Multiplicative & Additive Decompose
-o	Checking the residuals
-o	Seasonal Autocorrelation
-o	Seasonal pacf
-o	Performing stepwise search to minimize aic
-o	SARIMAX
+    -	Apple Closing Price – Expanding
+    -	Stock Density Distribution
+  - Part 3: Modeling
+    - Dicky fuller test
+    - Autocorrelation
+    - ACF (Autocorrelation Function)
+    - PACF (Partial Autocorrelation Function)
+    - Auto Regressive Integrated Moving Average
+    - Multiplicative & Additive Decompose
+    - Checking the residuals
+    - Seasonal Autocorrelation
+    - Seasonal pacf
+    - Performing stepwise search to minimize aic
+    - SARIMAX
 
-Data Preparation and Visulalization:
-•	Code Used: Python
-•	Packages: Pandas, Numpy, Matplotlib
+## Data Preparation and Visulalization:
+  - Code Used: Python
+  - Packages: Pandas, Numpy, Matplotlib
 
-Conclusion:
+## Conclusion:
 It is possible to create predictive models that will help give us quick and efficient insights into stock market trends.
