@@ -28,5 +28,9 @@ Part 1: Data Processing
   - Code Used: Python
   - Packages: Pandas, Numpy, Matplotlib
 
+### Data Sources
+Historical pricing data of apple stocks
+https://www.kaggle.com/datasets/dgawlik/nyse/data
+
 ## Conclusion:
 It is possible to create predictive models that will help give us quick and efficient insights into stock market trends.
